@@ -16,7 +16,5 @@ disable_highlight: true
 
 <center><font size=6 color="blue">以此记录我的后半场人生！</font></center>
 
-> 人间有味是清欢!<br>
-
-> 我喜欢你的名字，还有你笑的样子<br>
-> 回头却不是从前，再见已不是少年<br>
+<img src="http://image72.360doc.com/DownloadImg/2014/05/0511/41331958_3.jpg" style="max-width:35%;min-width:40px;float:right;" alt="wangzhen" />
+> 我之所以漂泊，就是为了向你靠近。
