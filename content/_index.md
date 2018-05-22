@@ -14,8 +14,6 @@ disable_highlight: true
 <img src="http://image72.360doc.com/DownloadImg/2014/05/0511/41331958_3.jpg" style="max-width:20%;min-width:30px;float:right;" alt="wangzhen" />
 
 
-> <font size=4>我之所以漂泊，就是为了向你靠近。</font>
-
-
-
-<center><font size=4 color="blue">以此记录我的后半场人生！</font></center>
+> <font size=4>一生一世一双人,半醉半醒半浮生!</font>
+> 
+> <font size=4>以此记录我的后半场人生！</font>
