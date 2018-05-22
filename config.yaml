@@ -1,0 +1,129 @@
+baseurl: "https://www.biowz.info/"
+languageCode: "en-us"
+title: "wang zhen"
+theme: "hugo-ivy"
+googleAnalytics: "UA-104890341-1"
+disqusShortname: "https-www-biowz-info"
+ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
+hasCJKLanguage: true
+enableEmoji: true
+footnotereturnlinkcontents: "↩"
+rssLimit: 30
+
+permalinks:
+  cn: "/cn/:year/:month/:slug/"
+  en: "/en/:year/:month/:slug/"
+
+menu:
+  main:
+    - name: "home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/en/about/"
+      weight: 2
+    - name: "Blog"
+      url: "/en/"
+      weight: 3
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 4
+    - name: "博客"
+      url: "/cn/"
+      weight: 5
+    - name: "Tags"
+      label: "tags"
+      url: "/tags/"
+      weight: 6
+    - name: "Categories"
+      label: "categories"
+      url: "/categories/"
+      weight: 7
+
+      
+  en:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/en/about/"
+      weight: 2
+    - name: "Blog"
+      url: "/en/"
+      weight: 3
+    - name: "Vitae"
+      url: "/en/vitae/"
+      weight: 4
+    - name: "Tags"
+      label: "tags"
+      url: "/tags/"
+      weight: 5
+    - name: "Categories"
+      label: "categories"
+      url: "/categories/"
+      weight: 6
+    - name: "中文"
+      url: "/cn/"
+      weight: 7
+  cn:
+    - name: "首页"
+      url: "/"
+      weight: 1
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 2
+    - name: "博客"
+      url: "/cn/"
+      weight: 3
+    - name: "简历"
+      url: "/cn/vitae/"
+      weight: 4
+    - name: "标签"
+      label: "tags"
+      url: "/tags/"
+      weight: 5
+    - name: "分类"
+      label: "categories"
+      url: "/categories/"
+      weight: 6
+    - name: "English"
+      url: "/en/"
+      weight: 7
+
+params:
+  description: "A little bit of data, and me"
+  footer: "&copy; [wang zhen](/) | 2018 - 至今 | [my academic web](https://horticulture-kid.github.io/about/) | [Weibo](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=2&tn=baiduhome_pg&wd=%E6%83%B3%E8%A6%81%E5%90%97%EF%BC%9F%EF%BC%9F%E5%B0%B1%E4%B8%8D%E7%BB%99&rsv_spt=1&oq=%25E4%25BB%25A5%25E5%2590%258E%25E5%2586%258D%25E5%258A%25A0&rsv_pq=f43228d800031716&rsv_t=56098grRppV%2BhDXEho3rrd%2BKJxhgi7r%2BwbVlt%2F3U6Ngh8lTzSdZzYYQ%2BYXAWTYzfPDTr&rqlang=cn&rsv_enter=1&rsv_sug3=33&rsv_sug1=21&rsv_sug7=100&rsv_sug2=0&inputT=9734&rsv_sug4=9735) "
+  disqusURL: "https://www.biowz.info/"
+  customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js"]
+  githubContentURL: "https://github.com/horticulture-kid/biowz/tree/master/content/"
+  # options for highlight.js (version, additional languages, and theme)
+  highlightjsVersion: "9.12.0"
+  highlightjsCDN: "//cdn.bootcss.com"
+  highlightjsLang: ["r", "yaml", "tex"]
+  highlightjsTheme: "github"
+
+  logo:
+    en:
+      img: "https://img.etsystatic.com/il/503467/1545371137/il_570xN.1545371137_cmol.jpg?version=0"
+      url: "/"
+      alt: "wang zhen"
+      tag: ""
+
+  author:
+    en: "wang zhen"
+    cn: ""
+
+  lang:
+    edit:
+      cn: "编辑"
+    license:
+      cn: "版权"
+    subscribe:
+      cn: "订阅"
+
+blackfriday:
+    extensionsmask: ["noIntraEmphasis"]
+
+taxonomies:
+   tag : "tags"
+   category : "categories"

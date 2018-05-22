@@ -1,0 +1,22 @@
+---
+title: Homepage
+date: '2018-05-20'
+disable_mathjax: true
+disable_highlight: true
+---
+
+&emsp;&emsp;This is wangzhen's website, currently a low-level researcher working at [njau](http://www.njau.edu.cn/), college of agriculture,[Yang's Lab](http://nx.njau.edu.cn/info/1055/2633.htm) .
+
+&emsp;&emsp;My interests focus on big data in genomics and  plant hormone. I work with multiple omics datasets, including whole-genome, transcriptome,Plant disease resistance etc.
+
+
+92年生的土生土长的中原人士，后天的黑子，黑对我来说就像是下坡路，一旦滚下去就，再也白不回来了。11年去了一个技校，15年换了个技校搬砖至今。
+
+
+
+<center><font size=6 color="blue">以此记录我的后半场人生！</font></center>
+
+> 人间有味是清欢!<br>
+
+> 我喜欢你的名字，还有你笑的样子<br>
+> 回头却不是从前，再见已不是少年<br>
