@@ -124,7 +124,8 @@ params:
 blackfriday:
     extensionsmask: ["noIntraEmphasis"]
     fractions: false
-    hrefTargetBlank: true
+    hrefTargetBlank: true  #这一个没有写的话会默认同一标签栏跳转到目标网页，
+    #加上这个就会在新标签打开。至少现在测试在首页是这样
 
 taxonomies:
    tag : "tags"
