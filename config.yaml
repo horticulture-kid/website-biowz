@@ -43,7 +43,7 @@ menu:
       
   en:
     - name: "Home"
-      url: "/"
+      url: "/en/"
       weight: 1
     - name: "About"
       url: "/en/about/"
@@ -63,7 +63,7 @@ menu:
       url: "/categories/"
       weight: 6
     - name: "中文"
-      url: "/cn/"
+      url: "/"
       weight: 7
 
 params:
