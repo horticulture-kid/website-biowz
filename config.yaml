@@ -20,7 +20,7 @@ menu:
       url: "/"
       weight: 1
     - name: "关于"
-      url: "/cn/about/"
+      url: "/cn/about"
       weight: 2
     - name: "博客"
       url: "/cn/"
