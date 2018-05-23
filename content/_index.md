@@ -6,7 +6,6 @@ disable_highlight: true
 ---
 
 
-
 &emsp;&emsp;This is wangzhen's website, currently a low-level researcher working at <a href="http://www.njau.edu.cn/"  target="_blank">NAU</a>, college of agriculture,<a href="http://nx.njau.edu.cn/info/1055/2633.htm" target="_blank">Yang's Lab</a> .
 
 &emsp;&emsp;My interests focus on big data in genomics and  plant hormone. I work with multiple omics datasets, including whole-genome, transcriptome,Plant disease resistance etc.
@@ -16,6 +15,10 @@ disable_highlight: true
 <img src="https://raw.githubusercontent.com/horticulture-kid/website-biowz/master/content/image/queqiao.jpg" style="max-width:20%;min-width:30px;float:right;" alt="wangzhen" />
 
 > 
+> 
+> 
+> 
 > <font size=4>一生一世一双人,半醉半醒半浮生!</font>
 > 
 > <font size=4>以此记录我的后半场人生！</font>
+> 
