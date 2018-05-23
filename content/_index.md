@@ -7,7 +7,7 @@ disable_highlight: true
 
 
 
-&emsp;&emsp;This is wangzhen's website, currently a low-level researcher working at [njau](http://www.njau.edu.cn/), college of agriculture,[Yang's Lab](http://nx.njau.edu.cn/info/1055/2633.htm) .
+&emsp;&emsp;This is wangzhen's website, currently a low-level researcher working at <a href="http://www.njau.edu.cn/"  target="_blank">NAU</a>, college of agriculture,<a href="http://nx.njau.edu.cn/info/1055/2633.htm" target="_blank">Yang's Lab</a> .
 
 &emsp;&emsp;My interests focus on big data in genomics and  plant hormone. I work with multiple omics datasets, including whole-genome, transcriptome,Plant disease resistance etc.
 
