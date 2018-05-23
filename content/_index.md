@@ -13,7 +13,7 @@ disable_highlight: true
 
 
 92年生的土生土长的中原人士，后天的黑子，黑对我来说就像是下坡路，一旦滚下去就，再也回不来了。11年去了一个技校，15年换了个技校搬砖至今。
-<img src="http://image72.360doc.com/DownloadImg/2014/05/0511/41331958_3.jpg" style="max-width:20%;min-width:30px;float:right;" alt="wangzhen" />
+<img src="https://raw.githubusercontent.com/horticulture-kid/website-biowz/master/content/image/queqiao.jpg" style="max-width:20%;min-width:30px;float:right;" alt="wangzhen" />
 
 > 
 > <font size=4>一生一世一双人,半醉半醒半浮生!</font>
