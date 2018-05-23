@@ -92,7 +92,7 @@ menu:
 
 params:
   description: "A little bit of data, and me"
-  footer: "&copy; [wang zhen](/) | 2018 - 至今 | [my academic web](https://wangzhen.netlify.com) | [Weibo](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=2&tn=baiduhome_pg&wd=%E6%83%B3%E8%A6%81%E5%90%97%EF%BC%9F%EF%BC%9F%E5%B0%B1%E4%B8%8D%E7%BB%99&rsv_spt=1&oq=%25E4%25BB%25A5%25E5%2590%258E%25E5%2586%258D%25E5%258A%25A0&rsv_pq=f43228d800031716&rsv_t=56098grRppV%2BhDXEho3rrd%2BKJxhgi7r%2BwbVlt%2F3U6Ngh8lTzSdZzYYQ%2BYXAWTYzfPDTr&rqlang=cn&rsv_enter=1&rsv_sug3=33&rsv_sug1=21&rsv_sug7=100&rsv_sug2=0&inputT=9734&rsv_sug4=9735) "
+  footer: "&copy; [wang zhen](/) | 2018 - 至今 | <a href="https://wangzhen.netlify.com" target= "_blank">My academic website</a>[my academic web]() | [Weibo](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=2&tn=baiduhome_pg&wd=%E6%83%B3%E8%A6%81%E5%90%97%EF%BC%9F%EF%BC%9F%E5%B0%B1%E4%B8%8D%E7%BB%99&rsv_spt=1&oq=%25E4%25BB%25A5%25E5%2590%258E%25E5%2586%258D%25E5%258A%25A0&rsv_pq=f43228d800031716&rsv_t=56098grRppV%2BhDXEho3rrd%2BKJxhgi7r%2BwbVlt%2F3U6Ngh8lTzSdZzYYQ%2BYXAWTYzfPDTr&rqlang=cn&rsv_enter=1&rsv_sug3=33&rsv_sug1=21&rsv_sug7=100&rsv_sug2=0&inputT=9734&rsv_sug4=9735) "
   disqusURL: "https://www.biowz.info/"
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js"]
   githubContentURL: "https://github.com/horticulture-kid/biowz/tree/master/content/"
