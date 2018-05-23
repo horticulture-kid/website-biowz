@@ -1,8 +1,6 @@
 ---
 title: Homepage
 date: '2018-05-20'
-disable_mathjax: true
-disable_highlight: true
 ---
 
 
