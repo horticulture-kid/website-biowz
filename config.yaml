@@ -16,28 +16,28 @@ permalinks:
 
 menu:
   main:
-    - name: "home"
+    - name: "首页"
       url: "/"
       weight: 1
-    - name: "About"
-      url: "/en/about/"
-      weight: 2
-    - name: "Blog"
-      url: "/en/"
-      weight: 3
     - name: "关于"
       url: "/cn/about/"
-      weight: 4
+      weight: 2
     - name: "博客"
       url: "/cn/"
-      weight: 5
-    - name: "Tags"
+      weight: 3
+    - name: "简历"
+      url: "/cn/vitae/"
+      weight: 4
+    - name: "标签"
       label: "tags"
       url: "/tags/"
-      weight: 6
-    - name: "Categories"
+      weight: 5
+    - name: "分类"
       label: "categories"
       url: "/categories/"
+      weight: 6
+    - name: "English"
+      url: "/en/"
       weight: 7
 
       
@@ -64,30 +64,6 @@ menu:
       weight: 6
     - name: "中文"
       url: "/cn/"
-      weight: 7
-  cn:
-    - name: "首页"
-      url: "/"
-      weight: 1
-    - name: "关于"
-      url: "/cn/about/"
-      weight: 2
-    - name: "博客"
-      url: "/cn/"
-      weight: 3
-    - name: "简历"
-      url: "/cn/vitae/"
-      weight: 4
-    - name: "标签"
-      label: "tags"
-      url: "/tags/"
-      weight: 5
-    - name: "分类"
-      label: "categories"
-      url: "/categories/"
-      weight: 6
-    - name: "English"
-      url: "/en/"
       weight: 7
 
 params:
