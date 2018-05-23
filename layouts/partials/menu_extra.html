@@ -1,9 +1,2 @@
 {{ if and (not .IsHome) .Content }}
 {{ $section := default .Section ($.Scratch.Get "section") }}
-<li class="meu-extra"></li>
-{{ with .Site.Params.githubContentURL }}
-{{ $.Scratch.Set "filePath" $.File.Path }}
-{{ if $.Params.from_Rmd }}
-{{ $.Scratch.Set "filePath" (replaceRE "[.]md$" ".Rmd" $.File.Path) }}
-{{ $.Scratch.Set "filePath" (replace ($.Scratch.Get "filePath") "\\" "/") }}
-{{ end }}
