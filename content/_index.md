@@ -17,8 +17,8 @@ disable_highlight: true
 <img src="https://raw.githubusercontent.com/horticulture-kid/website-biowz/master/content/image/queqiao.jpg" style="max-width:30%;min-width:40px;float:right;" alt="wangzhen" />
 
 > 
-> 既然来访问了，就送一句听起来很亲切的话：
-> <br>我喜欢你的名字，也喜欢你的笑容。
+> 既然来访问了，就送一句听起来很亲切的话：<br>
+> 我喜欢你的名字，也喜欢你的笑容。
 > 
 > <font size=4>一生一世一双人,半醉半醒半浮生!----致自己</font>
 > 
