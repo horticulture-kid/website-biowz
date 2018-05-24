@@ -32,10 +32,10 @@ menu:
       label: "tags"
       url: "/tags/"
       weight: 5
-    - name: "分类"
+    - name: "读书"
       label: "categories"
-      url: "/categories/"
-      weight: 6
+      url: "/reading/"  # now it does not exist！
+      weight: 6 
     - name: "English"
       url: "/en/"
       weight: 7
@@ -58,9 +58,9 @@ menu:
       label: "tags"
       url: "/tags/"
       weight: 5
-    - name: "Categories"
+    - name: "others"
       label: "categories"
-      url: "/categories/"
+      url: "/others/" #now it is not exist 
       weight: 6
     - name: "中文"
       url: "/"
