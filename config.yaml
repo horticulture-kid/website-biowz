@@ -52,7 +52,7 @@ menu:
       url: "/en/post/"
       weight: 3
     - name: "Vitae"
-      url: "/en/vitae/"
+      url: "/en/cv/"
       weight: 4
     - name: "Tags"
       label: "tags"
