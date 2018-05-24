@@ -22,5 +22,5 @@ disable_highlight: true
 > 
 > <font size=4>一生一世一双人,半醉半醒半浮生!</font>
 > 
-> <font size=4>以此记录我的后半场人生！</font>
+> <font size=4>以此记录我的后半场人生!！</font>
 > 
