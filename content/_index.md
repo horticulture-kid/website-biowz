@@ -13,7 +13,7 @@ disable_highlight: true
 &emsp;&emsp;My research has been focused on understanding the genetic and genomic basic of plant by integrating and digging into the massive amount of sequencing datasets in plant genomics.
 
 
-92年生的土生土长的中原人士，后天的黑子，为人随和，但也有原则，有脾气。11年去了当地一个技校呆了四年，15年换了个技校搬砖至今。没什么长处，喜欢瞎逼逼，平时喜欢打个羽毛球，看个《新闻联播》，一心想着毕业，然后做着自己想做的事；爱着也爱我的人（这个好像比较难）。
+92年生的土生土长的中原人士，后天的黑子，为人随和，但也有原则，有脾气。11年去了当地一个技校呆了四年，15年换了个技校搬砖至今。没什么长处，喜欢瞎逼逼，平时喜欢打个羽毛球，看个《新闻联播》。一心想着毕业，然后做着自己想做的事；爱着也爱我的人（这个好像比较难）。
 <img src="https://raw.githubusercontent.com/horticulture-kid/website-biowz/master/content/image/queqiao.jpg" style="max-width:30%;min-width:40px;float:right;" alt="wangzhen" />
 
 > 
