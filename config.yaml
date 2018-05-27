@@ -23,7 +23,7 @@ menu:
       url: "/cn/about/"
       weight: 2
     - name: "博客"
-      url: "/cn/"
+      url: "/cn/blog/"
       weight: 3
     - name: "简历"
       url: "/cn/vitae/"
