@@ -2,7 +2,6 @@
 title: Yang's语录
 author: 'wang zhen'
 slug: "yang/yulu"
-disable_comments: true
 ---
 
 <center><font size=6 color="red">本页面只记录Yang's生活语录</font></center>
