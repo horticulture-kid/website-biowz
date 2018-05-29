@@ -41,7 +41,7 @@ menu:
       weight: 7
     - name: "English"
       url: "/en/"
-      weight: 7
+      weight: 8
 
       
   en:
