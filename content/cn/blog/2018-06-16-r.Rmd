@@ -1,5 +1,5 @@
 ---
-title: R随记
+title: R随记2
 author: wz
 date: '2018-06-16'
 slug: r
@@ -7,7 +7,6 @@ categories:
   - 随笔
 tags:
   - R
----
 ---
 本页面长期更新ing........
 
