@@ -1,9 +1,0 @@
----
-title: _index
-author: E
-date: '2018-06-16'
-slug: _index
-categories: []
-tags: []
----
-中文博客
