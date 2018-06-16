@@ -1,0 +1,88 @@
+---
+title: R随记
+author: wz
+date: '2018-06-16'
+slug: r
+categories:
+  - 随笔
+tags:
+  - R
+---
+---
+本页面长期更新ing........
+
+引言：<br>
+本页面专门记录平时偶尔遇到的R问题的解决方法，而非已有book上的知识点。
+
+### 1.有两列数据转换成多列：
+<table class="table table-bordered table-striped table-condensed">
+   <tr>
+      <td>first</td>
+      <td>second</td>
+   </tr>
+   <tr>
+      <td>T100 </td>
+      <td>a</td>
+   </tr>
+   <tr>
+      <td>T100 </td>
+      <td>a</td>
+   </tr>
+   <tr>
+      <td>T100 </td>
+      <td>b</td>
+   </tr>
+   <tr>
+      <td>T200 </td>
+      <td>c</td>
+   </tr>
+   <tr>
+      <td>T200 </td>
+      <td>d</td>
+   </tr>
+   <tr>
+      <td>T300 </td>
+      <td>ae</td>
+   </tr>
+   <tr>
+      <td>T300 </td>
+      <td>d</td>
+   </tr>
+   <tr>
+      <td>T400 </td>
+      <td>c</td>
+   </tr>
+   <tr>
+      <td>T400</td>
+      <td>f</td>
+   </tr>
+   <tr>
+      <td>T400 </td>
+      <td>g</td>
+   </tr>
+</table>
+
+变成下面这种形式：<br>
+  first    items<br>
+ T100     a,a,b<br>
+ T200        c,d<br>
+ T300      ae,d<br>
+ T400         f<br>
+ T400        c,g<br>
+
+```{r}
+ddply(data,.(first_colname),summarise,items=paste(second_colname,
+collapse=','))
+```
+> 引用:<br>[链接1-问题解决](http://f.dataguru.cn/thread-249421-1-1.html)<br>
+> [链接2-网页表格制作](http://www.ituring.com.cn/article/3452)
+
+### 2.有一个数据框，行名有重复，但是指定选取第2个对应的数据。
+```{r}
+library(tidyverse)
+(test <- data_frame(
+        name=c("a","a","a","b","b","b","c","c"),
+        number=c(1:4,3:1,7)
+      ))
+tapply(test$number,test$name,'[',2)  
+```
