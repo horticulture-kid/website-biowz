@@ -1,4 +1,9 @@
 ---
-title: 中文博客
-date: '2017-08-16'
+title: _index
+author: E
+date: '2018-06-16'
+slug: _index
+categories: []
+tags: []
 ---
+中文博客
