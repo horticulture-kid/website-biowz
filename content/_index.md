@@ -18,10 +18,10 @@ disable_highlight: true
 
 > 
 > 我喜欢你的名字，也喜欢你的笑容。
-> 
-> <font size=4>我赠红珠如赠心，</font>
-> <font size=4>但愿君心似我心。</font>
-> <font size=4>不求白头偕老时，</font>
-> <font size=4>唯图两心长相印。</font>
+ 
+> <font size=4>我赠红珠如赠心，</font> <br>
+> <font size=4>但愿君心似我心。</font> <br>
+> <font size=4>不求白头偕老时，</font> <br>
+> <font size=4>唯图两心长相印。</font> <br>
 > 
 > <font size=4>以此记录我的后半场人生!！</font>
