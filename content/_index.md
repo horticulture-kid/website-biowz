@@ -24,4 +24,4 @@ disable_highlight: true
 > <font size=4>不求白头偕老时，</font> <br>
 > <font size=4>唯图两心长相印。</font> <br>
 > 
-> <font size=4>以此记录我的后半场人生!！</font>
+<font size=4>以此记录我的后半场人生!！</font>
