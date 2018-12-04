@@ -23,3 +23,8 @@ tags:
  
  reference:[参考1](https://github.com/kakawait/hugo-tranquilpeak-theme/issues/243)
  
+ #### 在修改的时候遇到网站最下面有地图定位，想删了
+ 
+ you can clone the data to your computer,then you should open file "D:\blog\my_academic\themes\hugo-academic\layouts\partials\footer.html".and you can edit the file.such as :delete or modify it<br>
+ then , the problem was solved.
+ 
