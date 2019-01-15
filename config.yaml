@@ -2,7 +2,6 @@ baseurl: "https://www.biowz.info/"
 languageCode: "en-us"
 title: "wang zhen"
 theme: "hugo-ivy"
-googleAnalytics: "UA-104890341-1"
 disqusShortname: "https-www-biowz-info"
 ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage: true
