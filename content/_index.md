@@ -19,5 +19,3 @@ disable_highlight: true
 > <font size=4>唯图两心长相印。</font> <br>
 
 **不等风来，只等你。**
-
-<font size=4>以此记录我的后半场人生!！</font>
