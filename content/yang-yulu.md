@@ -1,7 +1,7 @@
 ---
 title: 记录
 author: 'wang zhen'
-slug: "a股/yulu"
+slug: "yang/yulu"
 ---
 
 <center><font size=6 color="red">本页面只记录Yang's生活语录</font></center>
