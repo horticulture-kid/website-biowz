@@ -35,8 +35,8 @@ menu:
       label: "categories"
       url: "/reading/"  # now it does not exist！
       weight: 6 
-    - name: "Yang's语录"
-      url: "/yang/yulu/"
+    - name: "A记录"
+      url: "/a股/yulu/"
       weight: 7
     - name: "English"
       url: "/en/"
