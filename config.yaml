@@ -18,7 +18,7 @@ menu:
     - name: "首页"
       url: "/"
       weight: 1
-    - name: "关于"
+    - name: "关于本站"
       url: "/cn/about/"
       weight: 2
     - name: "博客"
@@ -35,10 +35,10 @@ menu:
       label: "categories"
       url: "/reading/"  # now it does not exist！
       weight: 6 
-    - name: "A记录"
+    - name: "记录"
       url: "/yang/yulu/"
       weight: 7
-    - name: "English"
+    - name: "English version"
       url: "/en/"
       weight: 8
 
