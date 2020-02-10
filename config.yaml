@@ -64,7 +64,7 @@ menu:
       label: "categories"
       url: "/others/" #now it is not exist 
       weight: 6
-    - name: "中文"
+    - name: "中文版"
       url: "/"
       weight: 7
 
