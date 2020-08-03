@@ -18,4 +18,4 @@ disable_highlight: true
 > <font size=4>不求白头偕老时，</font> <br>
 > <font size=4>唯图两心长相印。</font> <br>
 
-**不等风来，只等你。**
+**不等风来，只等你来。**
