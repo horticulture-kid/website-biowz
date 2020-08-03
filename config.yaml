@@ -36,7 +36,7 @@ menu:
       url: "/reading/"  # now it does not exist！
       weight: 6 
     - name: "记录"
-      url: "/yang/yulu/"
+      url: ##"/yang/yulu/"
       weight: 7
     - name: "English version"
       url: "/en/"
